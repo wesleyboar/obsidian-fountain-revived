@@ -1,10 +1,5 @@
 /* Fountain Code Mirror */
 
-.fountain-source-view>.CodeMirror-wrap>.CodeMirror-scroll {
-    padding: 20px !important;
-    position: unset;
-}
-
 [data-type="fountain"] .view-content .cm-editor {
     margin: 0;
     padding: 0;

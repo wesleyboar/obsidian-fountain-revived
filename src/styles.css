@@ -4,7 +4,7 @@
 [data-type="fountain"] .cm-line,
 [data-type="fountain"] .view-content .cm-editor {
 	font-size: 12pt;
-	font-family: 'Courier Final Draft', 'Courier Screenplay', 'Courier Prime';
+	font-family: 'Courier Final Draft', 'Courier Screenplay', 'Courier Prime', 'Courier', monospace;
 }
 [data-type="fountain"] .view-content .cm-editor::selection, 
 [data-type="fountain"] .cm-line::selection {
